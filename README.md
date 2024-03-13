@@ -1,4 +1,4 @@
-# React_Furniture-Site
+# React_Furniture_Site
 Site for a furniture company, created using React framework
 
 Site consists of 3 parts
