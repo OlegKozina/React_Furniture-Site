@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/static/js/main.fcda7c59.js",
-    "index.html": "/index.html",
-    "main.fcda7c59.js.map": "/static/js/main.fcda7c59.js.map"
+    "main.css": "/React_Furniture_Site/static/css/main.c9aebeda.css",
+    "main.js": "/React_Furniture_Site/static/js/main.9ac2b0be.js",
+    "static/media/hero-section_background.jpg": "/React_Furniture_Site/static/media/hero-section_background.669e6cbcf5f83c4eb09f.jpg",
+    "index.html": "/React_Furniture_Site/index.html",
+    "main.c9aebeda.css.map": "/React_Furniture_Site/static/css/main.c9aebeda.css.map",
+    "main.9ac2b0be.js.map": "/React_Furniture_Site/static/js/main.9ac2b0be.js.map"
   },
   "entrypoints": [
-    "static/js/main.fcda7c59.js"
+    "static/css/main.c9aebeda.css",
+    "static/js/main.9ac2b0be.js"
   ]
 }
