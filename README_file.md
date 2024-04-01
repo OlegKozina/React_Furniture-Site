@@ -1,9 +1,11 @@
 # React_Furniture_Site
+
 Site for a furniture company, created using React framework
 
 Site consists of 3 parts
 
 ### Header part
+
 Includes navigation buttons and production button, pressing which opens a cart with chosen items
 
 ### Hero section
